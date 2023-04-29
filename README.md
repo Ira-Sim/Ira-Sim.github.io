@@ -1,13 +1,8 @@
 ---
-title: "Projects"
-permalink: "/projects/"
+title: "About"
+permalink: "/about/"
 layout: page
 ---
 
---------------------------------------------------
-## Perfect Match 
 
-Overall best at ....
-
---------------------------------------------------
-## Guess Who? Customer segmentation
+Short description and a picture
